@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Front"
-baseurl = "http://MandrakeCQC.github.io/"
+baseurl = "http://MandrakeCQC.com/"
 theme = "aerial"
 
 [params]
