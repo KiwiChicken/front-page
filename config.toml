@@ -1,0 +1,42 @@
+languageCode = "en-us"
+title = "Front"
+baseurl = "http://MandrakeCQC.github.io/"
+theme = "aerial"
+
+[params]
+  name = "Keren Chen"
+  about = "Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this"
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "#"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "#"
+
+[[params.social]]
+  medium = "Professional"
+  icon = "briefcase"
+  link = "#"
+
+[[params.social]]
+  medium = "Personal"
+  icon = "coffee"
+  link = "#"
