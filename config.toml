@@ -5,7 +5,7 @@ theme = "aerial"
 
 [params]
   name = "Keren Chen"
-  about = "Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this"
+  about = "Computer Science Undergrad"
   copyright = "Untitled"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
@@ -17,19 +17,14 @@ theme = "aerial"
   link = "#"
 
 [[params.social]]
-  medium = "Facebook"
-  icon = "facebook"
-  link = "#"
-
-[[params.social]]
   medium = "Github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/MandrakeCQC"
 
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "#"
+  link = "kerench43@yahoo.com"
 
 [[params.social]]
   medium = "Professional"
